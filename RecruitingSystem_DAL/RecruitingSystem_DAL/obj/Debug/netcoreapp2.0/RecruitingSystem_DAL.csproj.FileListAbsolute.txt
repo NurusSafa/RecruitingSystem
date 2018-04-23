@@ -1,0 +1,11 @@
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\bin\Debug\netcoreapp2.0\RecruitingSystem_DAL.deps.json
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\bin\Debug\netcoreapp2.0\RecruitingSystem_DAL.runtimeconfig.json
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\bin\Debug\netcoreapp2.0\RecruitingSystem_DAL.runtimeconfig.dev.json
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\bin\Debug\netcoreapp2.0\RecruitingSystem_DAL.dll
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\bin\Debug\netcoreapp2.0\RecruitingSystem_DAL.pdb
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\obj\Debug\netcoreapp2.0\RecruitingSystem_DAL.csprojResolveAssemblyReference.cache
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\obj\Debug\netcoreapp2.0\RecruitingSystem_DAL.csproj.CoreCompileInputs.cache
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\obj\Debug\netcoreapp2.0\RecruitingSystem_DAL.AssemblyInfoInputs.cache
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\obj\Debug\netcoreapp2.0\RecruitingSystem_DAL.AssemblyInfo.cs
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\obj\Debug\netcoreapp2.0\RecruitingSystem_DAL.dll
+D:\Safa\RecruitingSystem\Core_RecruitingSystem\RecruitingSystem_DAL\RecruitingSystem_DAL\obj\Debug\netcoreapp2.0\RecruitingSystem_DAL.pdb
