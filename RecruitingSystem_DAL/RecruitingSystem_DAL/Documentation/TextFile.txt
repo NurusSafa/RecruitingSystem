@@ -1,0 +1,8 @@
+﻿To Upload to github Repository
+
+1. Create a Repository in github
+2. Close the VS 
+3. git add . 
+4. git commit -m"local commit"
+5. git remote add origin "https://github.com/NurusSafa/RecruitingSystem.git"
+6. git push -u origin master
